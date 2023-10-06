@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Fiber-android"
-include(":fiber-android")
+include(":fiber")
