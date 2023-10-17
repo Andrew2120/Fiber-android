@@ -1,5 +1,6 @@
 package com.b_labs.fiber
 
+import DesignSystem
 import androidx.compose.foundation.background
 import androidx.compose.material3.Button
 import androidx.compose.material3.Text
