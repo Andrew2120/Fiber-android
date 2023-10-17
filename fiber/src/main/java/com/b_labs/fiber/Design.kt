@@ -6,12 +6,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 
-class Design() {
-    private var design = DesignSystem
-
-    fun setTheme(ds: DesignSystem) {
-        this.design = ds
-    }
+class Design(private val design: DesignSystem) {
 
     @Composable
     fun PrimaryButton() {
