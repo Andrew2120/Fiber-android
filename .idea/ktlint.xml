@@ -8,6 +8,8 @@
         <option value="filename" />
         <option value="package-name" />
         <option value="package-name" />
+        <option value="final-newline" />
+        <option value="final-newline" />
       </list>
     </disabledRules>
   </component>
