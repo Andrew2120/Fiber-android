@@ -14,7 +14,7 @@ class Design(private val design: DesignSystem) {
     fun PrimaryButton() {
         Button(
             onClick = { /*TODO*/ },
-            modifier = Modifier.background(BtechTheme.colors.coolGray.negative4),
+            modifier = Modifier.background(BtechTheme.colors.green.green0),
         ) {
             Text(text = "Click")
         }
