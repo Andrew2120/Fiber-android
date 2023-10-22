@@ -50,7 +50,6 @@ afterEvaluate {
 
                 groupId = "com.github.fiber"
                 artifactId = "fiber-android"
-                version = "1.0"
             }
         }
     }

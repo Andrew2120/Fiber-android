@@ -1,7 +1,5 @@
 package com.b_labs.clientapp.ui.theme
 
-import ColorValuesContainer1
-import CoolGrayValuesContainer1
 import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -64,10 +62,6 @@ fun ClientAppTheme(
             WindowCompat.getInsetsController(window, view).isAppearanceLightStatusBars = darkTheme
         }
     }
-
-    val colors = ColorValuesContainer1().copy(
-        coolGray = CoolGrayValuesContainer1().copy(negative4 = androidx.compose.ui.graphics.Color.Cyan),
-    )
 
     MaterialTheme(
         colorScheme = colorScheme,
