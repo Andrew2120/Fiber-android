@@ -15,7 +15,7 @@ jobs:
         uses: amitsingh-007/next-release-tag@v4.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          tag_template: 'i.ii'
+          tag_template: 'i.i'
 
       - name: Create Release
         uses: actions/create-release@v1
