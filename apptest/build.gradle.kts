@@ -66,9 +66,4 @@ dependencies {
     androidTestImplementation("androidx.compose.ui:ui-test-junit4")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
-    implementation(project(":deel"))
-    implementation(project(":retail"))
-    implementation(project(":mylo"))
-    implementation(project(":fiber"))
-    implementation(project(":token"))
 }

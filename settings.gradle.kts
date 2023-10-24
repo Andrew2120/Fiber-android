@@ -14,9 +14,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Fiber-android"
-include(":fiber")
-include(":mylo")
-include(":retail")
-include(":deel")
 include(":apptest")
-include(":token")
+include(":fiber-deel")

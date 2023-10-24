@@ -12,11 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/apptest" />
-            <option value="$PROJECT_DIR$/deel" />
-            <option value="$PROJECT_DIR$/fiber" />
-            <option value="$PROJECT_DIR$/mylo" />
-            <option value="$PROJECT_DIR$/retail" />
-            <option value="$PROJECT_DIR$/token" />
+            <option value="$PROJECT_DIR$/fiber-deel" />
           </set>
         </option>
       </GradleProjectSettings>

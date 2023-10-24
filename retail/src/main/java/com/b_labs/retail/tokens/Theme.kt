@@ -12,6 +12,6 @@ val colorValuesContainer =
     ColorValuesContainer1(
         coolGray = coolGray,
     )
-val x = DesignSystem(
+val designSystem = DesignSystem(
     colorValuesContainer,
 )
