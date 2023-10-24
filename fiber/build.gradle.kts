@@ -67,4 +67,5 @@ dependencies {
     implementation(project(":mylo"))
     implementation(project(":deel"))
     implementation(project(":retail"))
+    implementation(project(":token"))
 }
