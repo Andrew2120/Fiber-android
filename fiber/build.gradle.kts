@@ -2,9 +2,7 @@ plugins {
     id("com.android.library")
     id("maven-publish")
     id("org.jetbrains.kotlin.android")
-
 }
-
 
 android {
     namespace = "com.b_labs.fiber"
@@ -33,7 +31,6 @@ android {
     kotlinOptions {
         jvmTarget = "17"
     }
-
 
     buildFeatures {
         compose = true
