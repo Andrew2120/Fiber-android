@@ -1,4 +1,4 @@
-package com.b_labs.deel
+package com.b_labs.fiber.theme
 
 import android.graphics.Color.parseColor
 import androidx.compose.ui.graphics.Color
