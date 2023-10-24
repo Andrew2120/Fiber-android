@@ -1,8 +1,6 @@
-import androidx.compose.ui.unit.*
-import androidx.compose.ui.graphics.Color
 import android.graphics.Color.parseColor
-import androidx.compose.runtime.Composable
-import androidx.compose.ui.platform.LocalDensity
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.unit.*
 
 object DesignSystem {
     val color = ColorValuesContainer1
@@ -2223,19 +2221,19 @@ object LineHeightValuesContainer1 {
     val value1400 = 112.0
 }
 
-data class Typography (
-    val lineHeight: Double, 
-    val letterSpacing: Double, 
-    val fontWeight: Double, 
-    val fontSize: Double, 
-    val fontFamily: String, 
+data class Typography(
+    val lineHeight: Double,
+    val letterSpacing: Double,
+    val fontWeight: Double,
+    val fontSize: Double,
+    val fontFamily: String,
 )
 
-data class BoxShadow (
-    val y: Double, 
-    val x: Double, 
-    val type: String, 
-    val spread: Double, 
-    val color: String, 
-    val blur: Double, 
+data class BoxShadow(
+    val y: Double,
+    val x: Double,
+    val type: String,
+    val spread: Double,
+    val color: String,
+    val blur: Double,
 )
