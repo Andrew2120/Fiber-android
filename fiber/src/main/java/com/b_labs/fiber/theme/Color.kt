@@ -1,4 +1,4 @@
-package com.b_labs.clientapp.ui.theme
+package com.b_labs.fiber.theme
 
 import androidx.compose.ui.graphics.Color
 
