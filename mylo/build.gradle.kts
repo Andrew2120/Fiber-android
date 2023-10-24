@@ -47,6 +47,8 @@ afterEvaluate {
 
                 groupId = "com.github.fiber"
                 artifactId = "mylo"
+                version = "1.2"
+
             }
         }
     }

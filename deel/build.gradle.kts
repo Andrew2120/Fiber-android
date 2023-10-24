@@ -47,6 +47,7 @@ afterEvaluate {
 
                 groupId = "com.github.fiber"
                 artifactId = "deel"
+                version = "1.0"
             }
         }
     }
