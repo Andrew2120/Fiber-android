@@ -47,7 +47,6 @@ afterEvaluate {
 
                 groupId = "com.github.fiber"
                 artifactId = "retail"
-                version = "1.3"
             }
         }
     }
